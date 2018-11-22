@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-echo 'The following "npm" command builds your Node.js/React application for'
+echo 'The following "npm" command runs your Node.js/React application in'
 echo 'production in the local "build" directory (i.e. within the appropriate'
 echo 'subdirectory of "/var/jenkins_home/workspace/"), correctly bundles React'
 echo 'in production mode and optimizes the build for the best performance.'
